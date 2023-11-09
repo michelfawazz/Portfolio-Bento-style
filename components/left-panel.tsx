@@ -14,10 +14,11 @@ const LeftPanel = () => {
             <div>
                 <div>
                     <Image
+                        priority
                         loading="eager"
                         alt="avatar"
                         
-                        src="/wave.png"
+                        src="/wave.PNG"
                         
                         width={220}
                         height={220}
