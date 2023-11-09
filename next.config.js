@@ -7,6 +7,16 @@ const nextConfig = {
         // !! WARN !!
         ignoreBuildErrors: true,
     },
+    images: {
+        dangerouslyAllowSVG: true,
+        minimumCacheTTL: 200,
+        remotePatterns: [
+          {
+            protocol: "https",
+            hostname: "**",
+          },
+        ],
+      },
 }
 
 module.exports = nextConfig
