@@ -14,14 +14,14 @@ const LeftPanel = () => {
             <div>
                 <div>
                     <Image
-                        priority
                         loading="eager"
                         alt="avatar"
-                        placeholder="blur"
+                        
                         src="/wave.png"
+                        
                         width={220}
                         height={220}
-                        blurDataURL="/wave.png"
+                        
                     />
                 </div>
 
