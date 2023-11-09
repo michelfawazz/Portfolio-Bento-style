@@ -348,7 +348,7 @@ const GridItemsLower: GridItemInterface[] = [
         buttonTitle: "View Project",
         buttonSecondaryText: "",
         buttonLink:
-            "https://aktionT4.com",
+            "1024-landingpage-tan.vercel.app",
     },
     {
         layout: "1x2",
