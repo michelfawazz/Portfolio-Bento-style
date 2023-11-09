@@ -1,0 +1,82 @@
+[
+    {
+      "name": "NestJS",
+      "path": "/image/skills/nest.svg"
+    },
+    {
+      "name": "Css",
+      "path": "/image/skills/css.svg"
+    },
+    {
+      "name": "Github",
+      "path": "/image/skills/github.svg"
+    },
+    {
+      "name": "Html",
+      "path": "/image/skills/html.svg"
+    },
+    {
+      "name": "Javascript",
+      "path": "/image/skills/javascript.svg"
+    },
+    {
+      "name": "MongoDB",
+      "path": "/image/skills/mongodb.svg"
+    },
+    {
+      "name": "NextJS",
+      "path": "/image/skills/nextjs.svg"
+    },
+    {
+      "name": "React",
+      "path": "/image/skills/react.svg"
+    },
+    {
+      "name": "C++",
+      "path": "/image/skills/c.svg"
+    },
+    {
+      "name": "Hardhat",
+      "path": "/image/skills/hardhat.svg"
+    },
+    {
+      "name": "TypeScript",
+      "path": "/image/skills/typescript.svg"
+    },
+    {
+      "name": "Vercel",
+      "path": "/image/skills/vercel.svg"
+    },
+    {
+      "name": "Solidity",
+      "path": "/image/skills/solidity.svg"
+    },
+    {
+      "name": "Python",
+      "path": "/image/skills/python.svg"
+    },
+    {
+      "name": "Postman",
+      "path": "/image/skills/postman.svg"
+    },
+    {
+      "name": "Tailwind",
+      "path": "/image/skills/tailwind.svg"
+    },
+    {
+      "name": "Express",
+      "path": "/image/skills/express.svg"
+    },
+    {
+      "name": "NodeJS",
+      "path": "/image/skills/node.svg"
+    },
+    {
+      "name": "Arangodb",
+      "path": "/image/skills/arango.svg"
+    },
+    {
+      "name": "Java",
+      "path": "/image/skills/java.svg"
+    }
+  ]
