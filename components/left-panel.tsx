@@ -52,17 +52,17 @@ const LeftPanel = () => {
                     </p>
                 </div>
                 {/* Buttons Container */}
-                <div className="flex items-center gap-3 mt-6">
+                <div className="flex items-center gap-3 mt-6 ">
                     <a
                         href={`${siteConfig.locationLink}`}
-                        className="flex items-center w-full bg-white gap-2 px-4 py-2 text-sm font-medium border rounded-md border-neutral-100 dark:border-neutral-800"
+                        className="flex items-center w-full gap-2 px-4 py-2 text-sm font-medium border rounded-md border-neutral-100 dark:border-neutral-800  bg-neutral-100 dark:bg-neutral-800"
                     >
                         <MapPin size="14" />
                         {siteConfig.location}
                     </a>
                     <a
                         href={`mailto:${siteConfig.email}`}
-                        className="flex items-center w-full bg-white gap-2 px-4 py-2 text-sm font-medium border rounded-md border-neutral-100 dark:border-neutral-800"
+                        className="flex items-center w-full  gap-2 px-4 py-2 text-sm font-medium border rounded-md border-neutral-100 dark:border-neutral-800 bg-neutral-100 dark:bg-neutral-800"
                     >
                         <Mail size="14" />
                         Contact Me
